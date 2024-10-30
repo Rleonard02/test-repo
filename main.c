@@ -3,6 +3,6 @@
 
 int main() {
     printf("Hello, Universe!\n"); // Changed from "World" to "Universe"
-    int a = 10;
+    int a = 20;
     return 0;
 }
