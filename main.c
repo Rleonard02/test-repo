@@ -1,8 +1,10 @@
-// main.c
 #include <stdio.h>
 
-int main() {
-    printf("Hello, Universe!\n"); // Changed from "World" to "Universe"
-    int a = 220;
+int main()
+{
+    int a = 5;
+    int b = 10;
+    int sum = a + b;
+    printf("The sum is: %d\n", sum);
     return 0;
 }
