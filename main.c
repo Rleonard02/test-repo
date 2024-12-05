@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a = 1800;
+    int a = 180;
     int b = 400;
     int sum = a + b;
     printf("The sum is?: %d\n", sum);
